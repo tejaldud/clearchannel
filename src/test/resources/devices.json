@@ -1,0 +1,52 @@
+{
+  "uid": "488285a0-a990-452e-906b-3a4a0f23f403",
+  "devices": [
+    {
+      "id": 1,
+      "contractType": "paymonthly",
+      "productType": "phones",
+      "sku": "1HUVAUN",
+      "name": "Huawei P30 Pro",
+      "upFrontCost": 0.99,
+      "monthlyCost": 50,
+      "condition": "new",
+      "stockStatus": "Active",
+      "deliveryMessage": "InStock",
+      "eligibleForPromotion": true,
+      "tariffLength": "24M"
+    },
+    {
+      "id": 2,
+      "contractType": "paymonthly",
+      "productType": "phones",
+      "sku": "MRY42B/A",
+      "name": "Apple iPhone XR",
+      "upFrontCost": 30,
+      "monthlyCost": 47.33,
+      "condition": "new",
+      "stockStatus": "Active",
+      "deliveryMessage": "InStock",
+      "eligibleForPromotion": false,
+      "tariffLength": "24M"
+    },
+    {
+      "id": 3,
+      "contractType": "payasyougo",
+      "productType": "phones",
+      "sku": "1HMNO5SN",
+      "name": "Nokia 5",
+      "upFrontCost": 79,
+      "monthlyCost": 0,
+      "condition": "new",
+      "stockStatus": "Active",
+      "deliveryMessage": "OutOfStock",
+      "eligibleForPromotion": false,
+      "tariffLength": "0M",
+      "alternates": [
+        1,
+        2
+      ]
+    }
+  ],
+  "publicationDate": "2019-04-12T10:17:46.384Z"
+}
