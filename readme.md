@@ -1,18 +1,18 @@
-#Project Title
+# Project Title
 
 Serenity Selenium Web Automation 
 
-##Getting Started
+## Getting Started
 These instructions will guide you on how to run tests with different parameters.
 See _Running the tests_ section for specific commands.
 
-##Built With
+## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Serenity](http://thucydides.info/docs/serenity-staging/) - Serenity BDD is an open source library for test automation.
-* [Java](https://www.oracle.com/java/) - Language
+* [Java](https://www.oracle.com/java/) - Programming Language
 
-##Running the tests
+## Running the tests
 * Run all tests:  
 Command to run all tests.
 
